@@ -1,3 +1,11 @@
 /target
 /openoffice/target
 /api/target
+/api/.settings
+/api/.project
+/api/.classpath
+/openoffice/.project
+/openoffice/.settings
+/openoffice/.classpath
+/.project
+/.settings

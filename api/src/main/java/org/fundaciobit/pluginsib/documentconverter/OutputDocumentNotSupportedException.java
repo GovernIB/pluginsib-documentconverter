@@ -7,19 +7,19 @@ package org.fundaciobit.pluginsib.documentconverter;
  */
 public class OutputDocumentNotSupportedException extends Exception {
 
-  /**
-   * @param message
-   * @param cause
-   */
-  public OutputDocumentNotSupportedException(String message, Throwable cause) {
-    super(message, cause);
-  }
+    /**
+     * @param message
+     * @param cause
+     */
+    public OutputDocumentNotSupportedException(String message, Throwable cause) {
+        super(message, cause);
+    }
 
-  /**
-   * @param message
-   */
-  public OutputDocumentNotSupportedException(String message) {
-    super(message);
-  }
+    /**
+     * @param message
+     */
+    public OutputDocumentNotSupportedException(String message) {
+        super(message);
+    }
 
 }
